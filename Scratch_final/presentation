@@ -1,0 +1,5 @@
+In this folder you'll find the suggested final bot using SVM.
+you'll need three files as follow:
+- 1) Vecto.pkl : vectorization model needed to deal with NLP
+- 2) Septembre_df : last updated database based on the FAQ Enercoop
+- 3) Bot_cosine sim_v4 : Chat bot model.
